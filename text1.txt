@@ -1,2 +1,4 @@
 Hello!
-This all text was changed
+This all text was CHANGED again
+
+This line is new
